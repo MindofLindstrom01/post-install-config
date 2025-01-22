@@ -4,7 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
-This is a continuation of the insert repository
+This is a continuation of the <a href="https://github.com/MindofLindstrom01/osticket-prereqs">osTicket: Prerequisites and Installation Repository</a>
 <br />
 
 <h2>Environments and Technologies Used</h2>
@@ -252,6 +252,8 @@ This is a continuation of the insert repository
 ![39  help topics added](https://github.com/user-attachments/assets/a7bf47db-3383-4c61-8c8c-5038cd94072b)
 
 <p>Add 4 more Help Topics with the same method, each one named like the ones highlighted in the image above.</p>
+
+<p>Congratulations! You have successfully configured some Roles, Departments, Teams, Agents, Users, SLA Plans, and Help Topics for osTicket.</p>
 
 <a href="http://localhost/osTicket/scp/login.php">Help Desk Login Page</a>
 <br>
