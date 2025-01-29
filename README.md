@@ -7,7 +7,7 @@
 In this part of the project we'll focus on configuring osTicket, so it can be used properly as a ticketing system. It consists of setting up multiple agents along with their departments, roles, and permissions. As well as, configuring SLAs (Service Level Agreements), help topics, and users.<br/>
 <br />
 
-This is a continuation of <a href="https://github.com/MindofLindstrom01/osticket-prereqs">osTicket: Prerequisites and Installation</a>
+This project is a continuation of <a href="https://github.com/MindofLindstrom01/osticket-prereqs">osTicket: Prerequisites and Installation</a>
 <br />
 
 <h2>Environments and Technologies Used</h2>
