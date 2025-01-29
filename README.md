@@ -15,13 +15,13 @@ This project is a continuation of <a href="https://github.com/MindofLindstrom01/
 - Microsoft Azure
 - Virtual Machines
 - Remote Desktop Connection
-- Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
-<h2>Installation Steps</h2>
+<h2>Project Walk-Through:</h2>
 
 <h3>Step 1.</h3>
 
