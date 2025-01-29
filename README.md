@@ -3,7 +3,9 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This project outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br/>
+<br />
+
 This is a continuation of the <a href="https://github.com/MindofLindstrom01/osticket-prereqs">osTicket: Prerequisites and Installation Repository</a>
 <br />
 
