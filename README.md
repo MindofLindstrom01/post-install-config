@@ -261,14 +261,9 @@ This project is a continuation of <a href="https://github.com/MindofLindstrom01/
 
 <p>Add 4 more Help Topics with the same method, each one named like the ones highlighted in the image above.</p>
 
+<h2>osTicket Setup Is Complete!</h2>
 <p>Congratulations! You have successfully configured some Roles, Departments, Teams, Agents, Users, SLA Plans, and Help Topics for osTicket.</p>
-
-<a href="http://localhost/osTicket/scp/login.php">Help Desk Login Page</a>
-<br>
-<a href="http://localhost/osTicket/">End User osTicket URL</a>
-<br />
-
-The next part: <a href="https://github.com/MindofLindstrom01/ticket-lifecycle">osTicket: Creating and Working Tickets
+Next part: <a href="https://github.com/MindofLindstrom01/ticket-lifecycle">osTicket: Creating and Working Tickets
 
 
 
