@@ -260,8 +260,9 @@ This is a continuation of the <a href="https://github.com/MindofLindstrom01/osti
 <a href="http://localhost/osTicket/scp/login.php">Help Desk Login Page</a>
 <br>
 <a href="http://localhost/osTicket/">End User osTicket URL</a>
+<br />
 
-
+The next part: <a href="https://github.com/MindofLindstrom01/ticket-lifecycle">osTicket: Creating and Working Tickets
 
 
 
