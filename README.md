@@ -2,16 +2,18 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This project outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br/>
+<h1>osTicket: Post Installation Configuration</h1>
+<h2>Description</h2>
+In this part of the project we'll focus on configuring osTicket, so it can be used properly as a ticketing system. It consists of setting up multiple agents along with their departments, roles, and permissions. As well as, configuring SLAs (Service Level Agreements), help topics, and users.<br/>
 <br />
 
-This is a continuation of the <a href="https://github.com/MindofLindstrom01/osticket-prereqs">osTicket: Prerequisites and Installation Repository</a>
+This is a continuation of <a href="https://github.com/MindofLindstrom01/osticket-prereqs">osTicket: Prerequisites and Installation</a>
 <br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
+- Virtual Machines
 - Remote Desktop Connection
 - Internet Information Services (IIS)
 
